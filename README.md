@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working with Crage by remote work.
+I'm working with [Crage](https://github.com/crage-inc) by remote work.
 
 <!--
 **crage-yy/crage-yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
